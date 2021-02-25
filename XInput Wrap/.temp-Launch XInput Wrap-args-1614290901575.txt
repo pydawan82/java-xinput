@@ -1,0 +1,5 @@
+"-Djava.library.path=E:\\Data\\David\\Coding\\WorkSpaces Eclipse\\XInput\\XInput Wrap\\xinput_lib"
+-Dfile.encoding=Cp1252
+-classpath
+"E:\\Data\\David\\Coding\\WorkSpaces Eclipse\\XInput\\XInput Wrap\\bin"
+Main
